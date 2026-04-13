@@ -1,3 +1,3 @@
-# career-247_demo
+# personal_demo
 this is my first repositor.
 author-Atul kumar dubey
